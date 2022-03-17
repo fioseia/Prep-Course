@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+ - Variables: Son cajas que se guardan en la memoria de la computadora donde podemos guardar distintos datos.
+ - Strings: Es un conjunto de letras, números o caracteres que los transformamos a texto.
+ - Funciones: Son pedazos de codigo que realizan una acción y que podemos usar todas las veces que necesitamos. Los argumentos son datos que le podemos dar a esa función para que los use adentro. El return se utiliza para que la función nos devuelva un resultado de la acción que realizó.
+ - If: A veces cuando le pasamos a la computadora una declaración, para que evalue en un futuro, no sabemos si llegado el momento esta va a ser verdadera o falsa. Con el if le indicamos a la misma como reaccionar dependiendo el resultado.
+ - Booleanos: Son un tipo de datos que funcionan como interruptores y solamente pueden estar prendidos (true) o apagados (false). 
