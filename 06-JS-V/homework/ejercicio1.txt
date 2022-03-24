@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`: Ya que en Javascript todo termina siendo un objeto si lo desglosamos, el .prototype nos permite acceder al objeto padre en la cadena de prototipos
+* _Constructors_ (de Clases): constructor es una función que tienen todas las clases que nos permite recibir parámetros y "moldear" el objeto que creará la clase al ser instanciada
