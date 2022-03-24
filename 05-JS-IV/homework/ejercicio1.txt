@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Contenedor de datos que nos permite asignar un nombre propio a cada valor que guardamos
+	* Propiedades: Es el conjunto de nombre propio + valor de cada dato que guardamos en un objeto
+	* Métodos: Se denomina método cuando el valor de una propiedad de un objeto es una función
+	* Bucle `for…in`: Permite recorrer cada propiedad de un objeto que pasamos. En un array se toma como propiedad al índice
+	* Notación de puntos vs notación de corchetes: Con la notación de corchetes podemos llamar el nombre propio de cada propiedad pasandolo como string o utilizar variables declaradas previamente y buscar lo declarado en esta variable como propiedad del objeto. Con la notación de puntos lo escrito se toma como el nombre literal de la propiedad
